@@ -1,7 +1,0 @@
-bs4
-requests
-pandas
-streamlit
-pybase64
-os
-
